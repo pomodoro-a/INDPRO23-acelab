@@ -33,7 +33,7 @@
      * 상대 측위란
 * Method
      * 노드 사이 거리를 이용한 Rule-based 알고리즘 개발
-     * ![image](https://github.com/pomodoro-a/INDPRO23-acelab/assets/153184149/981f9470-8c07-4253-b249-0b5cc4e0a071)
+       ![image](https://github.com/pomodoro-a/INDPRO23-acelab/assets/153184149/079a9487-a4c8-477f-bf02-ab7d1a7ce6ee)
      * 
   
 
