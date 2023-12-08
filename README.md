@@ -29,23 +29,23 @@
 
 ### Case Study
 * Description
-     * 본 과제에서는 거리 정보만을 이용한 상대 측위 연구를 수행함
-     * 상대 측위란 군집 이동체 간의 거리 정보를 의미
-     * 
+     * 본 과제에서는 거리 정보만을 이용한 상대 측위 연구를 수행
+     * 상대 측위란 타 이동체를 기준으로 타켓 이동체의 좌표를 구하는 것을 의미
 * Method
-     * 노드 사이 거리를 이용한 Rule-based 알고리즘 개발
+     * 노드 사이 거리를 이용한 Rule-based 측위 기술
         * ![image](https://github.com/pomodoro-a/INDPRO23-acelab/assets/153184149/079a9487-a4c8-477f-bf02-ab7d1a7ce6ee)
-        * 제한된 영역 내의 노드에서 설정한 개수만큼 좌표축을 나누어, 최적의 좌표를 추정
-     *  노드 사이 거리를 이용한 인공지능 알고리즘 개발
+        * 노드가 존재할 수 있는 제한된 2차원 영역의 x, y축을 grid로 나누어 최적의 좌표를 추정
+     *  노드 사이 거리를 이용한 인공지능 기반 측위 기술 개발
         * ![image](https://github.com/pomodoro-a/INDPRO23-acelab/assets/153184149/f13bdce3-5ec7-48bb-a602-aa0b3f367a60)
-        * 노드 간의 거리 정보를 입력하여 노드의 2차원 상대 좌표를 출력하는 인공지능 설계
+        * 노드 간의 모든 거리 정보를 입력하여 각 노드의 2차원 상대 좌표를 예측하는 인공지능을 설계
 
 * Experimental Results
-   * 알고리즘에 따른 상대 측위 성능 결과
+   * 측위 기술에 따른 상대 측위 성능 결과
       * ![image](https://github.com/pomodoro-a/INDPRO23-acelab/assets/153184149/c7d79178-c9c3-4b1f-ae96-9e947a74ba57)
  
 ### Conclusion
-* 노드 개수와 상관없이 Rule-based 알고리즘 대비 인공지능 알고리즘의 성능이 우수한 것을 확인하였음
+* 노드 개수와 상관없이 Rule-based 측위 기술 대비 인공지능 기반 측위 기술의 좌표 추정 성능이 우수
+* 모든 측위 기술에서 존재하는 노드의 개수가 증가할수록 좌표 추정 성능이 저하
 
 ### Project Outcome
-* OOO
+* 
