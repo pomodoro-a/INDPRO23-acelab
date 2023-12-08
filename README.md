@@ -25,7 +25,7 @@
 
 ### System Design
 * System Requirements
-      * 상대 측위 연구 및 성능 평가
+   * 상대 측위 연구 및 성능 평가
 
 ### Case Study
 * Description
